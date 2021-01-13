@@ -5,7 +5,7 @@
   "identifiers": [
     { "id": 1, "title": "Identifier 1", "identificationId": 1 },
   ],
-  "areas": {
+  "areas": [
     { "id": 1, "title": "Area 1", "identifierId": 1 },
-  }
+  ]
 }
