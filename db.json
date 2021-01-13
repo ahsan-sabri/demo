@@ -13,5 +13,8 @@
   ],
   "measures": [
     { "id": 1, "title": "Measure 1", "desc": "Sample measure", "area_measure": 1}
-  ]
+  ],
+  "profile": {
+    "name": "INST360"
+  }
 }
