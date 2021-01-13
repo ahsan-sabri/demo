@@ -1,9 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" }
+  "identifications": [
+    { "id": 1, "title": "Identification 1", "desc": "Sample identification"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "identifiers": [
+    { "id": 1, "title": "Identifier 1", "desc": "Sample identifier", "identification": 1}
+  ],
+  "areas": [
+    { "id": 1, "title": "Area 1", "desc": "Sample area", "identifier": 1}
+  ],
+  "areameasures": [
+    { "id": 1, "title": "Area Measure 1", "desc": "Sample area measure", "area": 1}
+  ],
+  "measures": [
+    { "id": 1, "title": "Measure 1", "desc": "Sample measure", "areameasure": 1}
   ],
   "profile": {
     "name": "INST360"
