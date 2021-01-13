@@ -1,6 +1,6 @@
 ## Try it
 
-[https://github.com/ahsan-sabri/demo]
+[https://my-json-server.typicode.com/ahsan-sabri/demo]
 
 ## Use your own data
 
